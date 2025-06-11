@@ -44,12 +44,7 @@
   <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
 </div>
 
-<h3 align="center">📈 Estadísticas de Código</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas GitHub" height="180"/>
-</div>
 
 <h3 align="center">📫 Contáctanos</h3>
 
